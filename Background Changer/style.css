@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(177, 177, 240);
+}
+div{
+    width:35% ;
+    height:6vh;
+    padding:8px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(28, 34, 34);
+    
+}
+#a{color: #330033;
+    background-color:#330033 ;
+   flex:1;
+   cursor: pointer;
+  
+}
+#b{background-color:#FF0066 ;
+    flex:1;
+    color: #FF0066;
+    cursor: pointer;
+}
+#c{background-color: #66FF99;
+    flex:1;
+    color: #66FF99;
+    cursor: pointer;
+}
+#d{background-color:#FFFF99 ;
+    flex:1;
+color: #FFFF99;
+cursor: pointer;
+}
+#e{
+    background-color:#990033 ;
+    flex:1;
+    color: #990033;
+    cursor: pointer;
+}
+#f{
+    cursor: pointer;
+background-color:#003366 ;
+color: #003366;
+flex:1;}
+
+#g{
+    background-color: #3333CC;
+    flex:1;
+    color: #3333CC;
+    cursor: pointer;
+}
+#h{
+    background-color:#FFCC99 ;
+    flex:1;
+    color: #FFCC99;
+    cursor: pointer;
+}
+h1{
+    font-size: 60px;
+    font-family: sans-serif;
+    color: rgb(243, 119, 17);
+    text-align: center;
+  
+
+}
